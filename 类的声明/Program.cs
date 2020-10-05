@@ -10,6 +10,7 @@ namespace 类的声明
     {
         static void Main(string[] args)
         {
+            ///new
         }
     }
 }
